@@ -10,7 +10,7 @@ public class FirstProgram {
 		
 		String var2 = "pan";
 		String push = "git first changes push";
-		String branch = "created one branch";
+		String docker = "build through docker";
 		
 		System.out.println(var2);		
 		System.out.println("Cooking");
