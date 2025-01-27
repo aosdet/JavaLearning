@@ -10,11 +10,11 @@ public class FirstProgram {
 		
 		String var2 = "pan";
 		String push = "git first changes push";
+		String branch = "created one branch";
+		
 		System.out.println(var2);		
 		System.out.println("Cooking");
 		System.out.println(push);
-		
-		
 	}
 
 	public static void main(String[] args) {
