@@ -9,7 +9,7 @@ public class FirstProgram {
 	public void cooking() { //method
 		
 		String var2 = "pan";
-		String docker = "build through docker";
+		String docker = "build through docker1";
 		
 		System.out.println(var2);		
 		System.out.println("Cooking");
