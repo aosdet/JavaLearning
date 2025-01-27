@@ -9,12 +9,11 @@ public class FirstProgram {
 	public void cooking() { //method
 		
 		String var2 = "pan";
-		String push = "git first changes push";
 		String docker = "build through docker";
 		
 		System.out.println(var2);		
 		System.out.println("Cooking");
-		System.out.println(push);
+		System.out.println(docker);
 	}
 
 	public static void main(String[] args) {
