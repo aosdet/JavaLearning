@@ -28,8 +28,6 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-<<<<<<< HEAD
-          tags: mck129339/your-image-name:latest
-=======
-          tags: mck129339/your-image-name:latest
->>>>>>> branch 'master' of https://github.com/aosdet/JavaLearning.git
+
+          tags: mck129339/testrepo:latest
+ 
