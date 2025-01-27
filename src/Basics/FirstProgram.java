@@ -8,9 +8,11 @@ public class FirstProgram {
 	
 	public void cooking() { //method
 		
-		String var2 = "pan";		
+		String var2 = "pan";
+		String push = "git first changes push";
 		System.out.println(var2);		
 		System.out.println("Cooking");
+		System.out.println(push);
 		
 		
 	}
