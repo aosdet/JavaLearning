@@ -8,7 +8,7 @@ public class FirstProgram {
 	
 	public void cooking() { //method
 		
-		String var2 = "pan";
+		String var2 = "spoon";
 		String docker = "build through docker1";
 		
 		System.out.println(var2);		
